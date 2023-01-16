@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&pause=1000&width=435&lines=Trying+to+learn+PCB+design+%3AD)](https://git.io/typing-svg)
 <!--
 **Lelie-l/Lelie-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
