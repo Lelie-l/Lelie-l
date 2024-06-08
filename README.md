@@ -7,6 +7,6 @@
 test;
 color: transparent;
 pointer-events: none;
-z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjM5My10YW5nLTAyLWdlb21ldHJpY3BhdHRlcm5fMi5qcGc.jpg?s=dC64xzCKiqYwPz_AokYpSJ-OpSW_ovnXJLxb6n2Y_1M');
+z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.3; background: url('https://raw.githubusercontent.com/cryptolake/cryptolake/master/mandel.jpg');
 "]{}
 ```
